@@ -16,5 +16,4 @@ export default defineConfig({
       "Cross-Origin-Opener-Policy": "same-origin",
     },
   },
-  base: "/package-audit/",
 });
